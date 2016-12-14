@@ -1,0 +1,18 @@
+---
+published: true
+title: Why Tests?
+layout: post
+---
+This small post is about the recent revelations I had. I am pretty sure most of us have heard the 3 M’s of development. - Make it Work. - Make it Right. - Make it Beautiful.
+
+The First M talks about making your idea take shape. Your Idea should work! That’s it! You need not worry if its working properly.
+
+Now that your Idea took shape, here comes the Second M, which says that the Program that you have just written, that personifies you Idea should be correct. It should be correct logically. It should do whatever you as a creator imagined it would do.
+
+Now that your Program is working correctly, Its time to beautify it. Where the third M comes into play. Beautifying doesn’t necessarily mean beautifying look and feel of the Program’s UI, It can also mean making it more Optimal in terms of the space and time it takes to run.
+
+You must be wondering, why is the writer talking about three M’s of development? Shouldn’t he be talking about Test Cases? The point is, all my years programming, I thought that One writes Test Cases to achieve the Second M, because even if you have reached the first phase, you need to make your Program logically correct. And what better way to make your Program logically correct then testing it extensively to every possible edge case where it might fail.
+
+Well, If you agree with me, you might be partially correct. The real reason we write Test Cases, and this is what I just experienced is to make your Program Work even after you update it.
+
+Think about it. You have written your program, tested it, made it work, right and beautiful. Sooner or Later you need to Update it. Now when you update it, you must be changing a fairly good portion of code, and lets just say you have made the updates, added a whole bunch of new functionalities, tested the updated version, and Hurrah! it worked. But Who’s to say, that your new changes also comply with the previous logic that you have developed your code with before…? Ever thought that…? The reason why we write Tests is, to be always sure that the new updates are not hindering the underlying parent logic. Sounds Right?! I guess so.
