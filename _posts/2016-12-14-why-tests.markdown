@@ -9,7 +9,7 @@ The First M talks about making your idea take shape. Your Idea should work! That
 
 Now that your Idea took shape, here comes the Second M, which says that the Program that you have just written, that personifies you Idea should be correct. It should be correct logically. It should do whatever you as a creator imagined it would do.
 
-Now that your Program is working correctly, Its time to beautify it. Where the third M comes into play. Beautifying doesn’t necessarily mean beautifying look and feel of the Program’s UI, It can also mean making it more Optimal in terms of the space and time it takes to run.
+Now that your Program is working correctly, time to beautify it. Where the third M comes into play. Beautifying doesn’t necessarily mean beautifying look and feel of the Program’s UI, It can also mean making it more Optimal in terms of the space and time it takes to run.
 
 You must be wondering, why is the writer talking about three M’s of development? Shouldn’t he be talking about Test Cases? The point is, all my years programming, I thought that One writes Test Cases to achieve the Second M, because even if you have reached the first phase, you need to make your Program logically correct. And what better way to make your Program logically correct then testing it extensively to every possible edge case where it might fail.
 
